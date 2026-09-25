@@ -2,7 +2,7 @@
 
 ## Use this file to send
 
-Use `newsletter-email.html` in your email marketing platform. It is minified to 82 KB and uses absolute image URLs hosted on the public GitHub Pages preview.
+Use `newsletter-email.html` in your email marketing platform. It is minified to 80 KB and uses absolute image URLs hosted on the public GitHub Pages preview.
 
 Do not attach the HTML or ZIP to recipients. Instead, import or paste the HTML into your email platform's custom HTML editor, then send a test email before the campaign.
 

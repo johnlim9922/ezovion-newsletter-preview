@@ -63,6 +63,17 @@
           <mj-text color="#2d2d2d">
             A truly connected hospital runs on two synchronized engines: clinical excellence at the bedside and frictionless governance in the back office. When inventory disconnects, payment reconciliations, or administrative delays creep in, it is the patient experience and clinical focus that suffer. Our latest updates, from real-time EHR pharmacy visibility and automated device vitals to upfront billing estimates, are built with a singular focus: stripping away manual friction so your teams can dedicate their energy where it matters most: delivering timely, superior patient care. Thank you for partnering with Ezovion as we continue to shape the future of intelligent, patient-centric healthcare.
           </mj-text>
+          <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
+            <tr>
+              <td width="62" valign="middle" style="padding:16px 12px 0 0;">
+                <img src="assets/kasi-shanmugam.jpg" alt="Kasi Viswanathan Shanmugam" width="54" height="54" style="display:block;width:54px;height:54px;border-radius:50%;border:2px solid #fce8fa;" />
+              </td>
+              <td valign="middle" style="padding:16px 0 0;color:#2d2d2d;font-family:Arial, Helvetica, sans-serif;line-height:20px;">
+                <strong style="color:#621742;font-size:15px;">Kasi Viswanathan Shanmugam</strong><br />
+                <span style="font-size:13px;">CEO</span>
+              </td>
+            </tr>
+          </mj-table>
         </mj-column>
       </mj-section>
 
@@ -284,10 +295,10 @@
       <mj-section padding="0 34px 34px" css-class="mobile-pad">
         <mj-column>
           <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
-            <tr><td width="32" style="padding:15px 10px 15px 0;color:#621742;font-weight:bold;">01</td><td class="article-link" style="padding:15px 0;border-bottom:1px solid #fce8fa;font-size:16px;line-height:23px;font-weight:bold;"><a href="https://ezovion.com/blogs/">Software Requirements Specification for Hospital Management System</a></td></tr>
+            <tr><td width="32" style="padding:15px 10px 15px 0;color:#621742;font-weight:bold;">01</td><td class="article-link" style="padding:15px 0;border-bottom:1px solid #fce8fa;font-size:16px;line-height:23px;font-weight:bold;"><a href="https://ezovion.com/software-requirements-specification-for-hospital-management-system/">Software Requirements Specification for Hospital Management System</a></td></tr>
             <tr><td width="32" style="padding:15px 10px 15px 0;color:#621742;font-weight:bold;">02</td><td class="article-link" style="padding:15px 0;border-bottom:1px solid #fce8fa;font-size:16px;line-height:23px;font-weight:bold;"><a href="https://ezovion.com/claim-denial-management-solutions/">Claim Denial Management: 7 Common Denials &amp; Solutions</a></td></tr>
-            <tr><td width="32" style="padding:15px 10px 15px 0;color:#621742;font-weight:bold;">03</td><td class="article-link" style="padding:15px 0;border-bottom:1px solid #fce8fa;font-size:16px;line-height:23px;font-weight:bold;"><a href="https://ezovion.com/blogs/">History of Electronic Medical Record (EMR) Systems</a></td></tr>
-            <tr><td width="32" style="padding:15px 10px 15px 0;color:#621742;font-weight:bold;">04</td><td class="article-link" style="padding:15px 0;font-size:16px;line-height:23px;font-weight:bold;"><a href="https://ezovion.com/blogs/">Clinic Management Software to Uncover Hidden Inefficiencies!</a></td></tr>
+            <tr><td width="32" style="padding:15px 10px 15px 0;color:#621742;font-weight:bold;">03</td><td class="article-link" style="padding:15px 0;border-bottom:1px solid #fce8fa;font-size:16px;line-height:23px;font-weight:bold;"><a href="https://ezovion.com/history-of-emr-systems/">History of Electronic Medical Record (EMR) Systems</a></td></tr>
+            <tr><td width="32" style="padding:15px 10px 15px 0;color:#621742;font-weight:bold;">04</td><td class="article-link" style="padding:15px 0;font-size:16px;line-height:23px;font-weight:bold;"><a href="https://ezovion.com/how-clinic-management-software-analytics-helps-leaders-find-hidden-inefficiencies/">Clinic Management Software to Uncover Hidden Inefficiencies!</a></td></tr>
           </mj-table>
         </mj-column>
       </mj-section>
@@ -307,12 +318,8 @@
           <mj-text color="#621742" font-size="18px" font-weight="700" line-height="24px" padding-bottom="14px">Technology Partners</mj-text>
           <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
             <tr>
-              <td align="center" width="16.66%"><img src="assets/partner-better.jpg" alt="Better" width="76" style="display:block;width:76px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="16.66%"><img src="assets/partner-meditech.jpg" alt="Meditech" width="76" style="display:block;width:76px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="16.66%"><img src="assets/partner-epic.jpg" alt="Epic" width="76" style="display:block;width:76px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="16.66%"><img src="assets/partner-aws.jpg" alt="AWS Partner Network" width="76" style="display:block;width:76px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="16.66%"><img src="assets/partner-google.jpg" alt="Google Cloud Partner" width="76" style="display:block;width:76px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="16.66%"><img src="assets/partner-microsoft.jpg" alt="Microsoft Partner" width="76" style="display:block;width:76px;max-width:100%;height:auto;" /></td>
+              <td align="center" width="50%" style="padding:4px 12px;"><img src="assets/partner-microsoft.jpg" alt="Microsoft Partner" width="150" style="display:block;width:150px;max-width:100%;height:auto;" /></td>
+              <td align="center" width="50%" style="padding:4px 12px;"><img src="assets/partner-better.jpg" alt="Better" width="150" style="display:block;width:150px;max-width:100%;height:auto;" /></td>
             </tr>
           </mj-table>
         </mj-column>
@@ -323,11 +330,10 @@
           <mj-text color="#621742" font-size="18px" font-weight="700" line-height="24px" padding-bottom="14px">Security &amp; Compliance</mj-text>
           <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
             <tr>
-              <td align="center" width="20%"><img src="assets/compliance-gxp.png" alt="GxP compliance" width="88" style="display:block;width:88px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="20%"><img src="assets/compliance-pci-dss.png" alt="PCI DSS compliant" width="88" style="display:block;width:88px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="20%"><img src="assets/compliance-hitrust.png" alt="HITRUST certified" width="88" style="display:block;width:88px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="20%"><img src="assets/compliance-hipaa.png" alt="HIPAA compliant" width="88" style="display:block;width:88px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="20%"><img src="assets/compliance-iso-27001.png" alt="ISO 27001 certified" width="88" style="display:block;width:88px;max-width:100%;height:auto;" /></td>
+              <td align="center" width="25%" style="padding:14px 5px;background:#fce8fa;border-right:5px solid #ffffff;color:#621742;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:18px;">ISO 27001</td>
+              <td align="center" width="25%" style="padding:14px 5px;background:#fce8fa;border-right:5px solid #ffffff;color:#621742;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:18px;">ISO 9001</td>
+              <td align="center" width="25%" style="padding:14px 5px;background:#fce8fa;border-right:5px solid #ffffff;color:#621742;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:18px;">GDPR</td>
+              <td align="center" width="25%" style="padding:14px 5px;background:#fce8fa;color:#621742;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:18px;">ABHA</td>
             </tr>
           </mj-table>
         </mj-column>
@@ -335,18 +341,19 @@
 
       <mj-section background-color="#2d2d2d" padding="32px 34px 18px" css-class="mobile-pad">
         <mj-column>
-          <mj-text align="center" color="#ffffff" font-size="17px" font-weight="700" line-height="25px" padding-bottom="13px" css-class="footer-link"><a href="https://apps.ezovion.com/">Log in today</a> to explore what's new or <a href="mailto:hello@ezovion.com">reach out to our team</a> for a quick demo!</mj-text>
-          <mj-text align="center" color="#fce8fa" font-size="14px" line-height="24px" padding-bottom="15px" css-class="footer-link"><a href="https://www.ezovion.com/">www.ezovion.com</a> | <a href="mailto:hello@ezovion.com">hello@ezovion.com</a></mj-text>
+          <mj-text align="center" color="#ffffff" font-size="17px" font-weight="700" line-height="25px" padding-bottom="13px">Log in today to explore what's new or reach out to our team for a quick demo!</mj-text>
+          <mj-text align="center" color="#fce8fa" font-size="14px" line-height="24px" padding-bottom="15px">www.ezovion.com | hello@ezovion.com</mj-text>
           <mj-divider border-color="#621742" border-width="1px" padding="0 0 14px" />
           <mj-table cellpadding="0" cellspacing="0" width="210px" align="center" role="presentation">
             <tr>
-              <td align="center" width="42"><a href="https://www.linkedin.com/company/ezovion"><img src="assets/icons/linkedin-white.png" alt="LinkedIn" width="24" style="display:block;width:24px;height:24px;" /></a></td>
-              <td align="center" width="42"><a href="https://www.facebook.com/ezovion"><img src="assets/icons/facebook-white.png" alt="Facebook" width="24" style="display:block;width:24px;height:24px;" /></a></td>
-              <td align="center" width="42"><a href="https://www.instagram.com/ezovion/"><img src="assets/icons/instagram-white.png" alt="Instagram" width="24" style="display:block;width:24px;height:24px;" /></a></td>
-              <td align="center" width="42"><a href="https://twitter.com/ezovion/"><img src="assets/icons/twitter-white.png" alt="Twitter" width="24" style="display:block;width:24px;height:24px;" /></a></td>
-              <td align="center" width="42"><a href="https://www.youtube.com/c/ezovion"><img src="assets/icons/youtube-white.png" alt="YouTube" width="24" style="display:block;width:24px;height:24px;" /></a></td>
+              <td align="center" width="42"><img src="assets/icons/linkedin-white.png" alt="LinkedIn" width="24" style="display:block;width:24px;height:24px;" /></td>
+              <td align="center" width="42"><img src="assets/icons/facebook-white.png" alt="Facebook" width="24" style="display:block;width:24px;height:24px;" /></td>
+              <td align="center" width="42"><img src="assets/icons/instagram-white.png" alt="Instagram" width="24" style="display:block;width:24px;height:24px;" /></td>
+              <td align="center" width="42"><img src="assets/icons/twitter-white.png" alt="Twitter" width="24" style="display:block;width:24px;height:24px;" /></td>
+              <td align="center" width="42"><img src="assets/icons/youtube-white.png" alt="YouTube" width="24" style="display:block;width:24px;height:24px;" /></td>
             </tr>
           </mj-table>
+          <mj-text align="center" color="#fce8fa" font-size="12px" line-height="18px" padding="15px 0 0"><u>Unsubscribe Here</u></mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
