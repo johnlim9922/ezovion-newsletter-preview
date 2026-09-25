@@ -15,9 +15,8 @@
       .footer-link a { color: #fce8fa !important; }
     </mj-style>
     <mj-style>
-      .newsletter-shell { box-shadow: 0 12px 34px rgba(0, 0, 0, 0.16); }
+      .newsletter-shell { position: relative; z-index: 1; box-shadow: 0 0 34px rgba(0, 0, 0, 0.16); }
       .article-link a:hover { color: #621742 !important; text-decoration: underline !important; }
-      .unsubscribe-button a:hover { background-color: #ffffff !important; color: #621742 !important; }
       @media only screen and (max-width: 480px) {
         .mobile-pad > table > tbody > tr > td { padding-left: 20px !important; padding-right: 20px !important; }
         .mobile-center div { text-align: center !important; }
@@ -55,11 +54,11 @@
         </mj-column>
       </mj-section>
 
-      <mj-section padding="38px 34px 36px" css-class="mobile-pad">
-        <mj-column width="15%" css-class="mobile-gap">
-          <mj-text color="#621742" font-family="Georgia, Times, serif" font-size="56px" line-height="46px">“</mj-text>
+      <mj-section padding="38px 26px 36px" css-class="mobile-pad">
+        <mj-column width="6%" css-class="mobile-gap">
+          <mj-text color="#621742" font-family="Georgia, Times, serif" font-size="44px" line-height="38px">“</mj-text>
         </mj-column>
-        <mj-column width="85%">
+        <mj-column width="94%">
           <mj-text color="#621742" font-size="24px" font-weight="700" line-height="31px" padding-bottom="15px">
             A Message from CEO: Building the Frictionless, Connected Hospital
           </mj-text>
@@ -356,11 +355,10 @@
               <td align="center" width="42"><img src="assets/icons/youtube-white.png" alt="YouTube" width="24" style="display:block;width:24px;height:24px;" /></td>
             </tr>
           </mj-table>
-          <mj-button href="#" css-class="unsubscribe-button" align="center" background-color="#fce8fa" color="#621742" border-radius="999px" font-size="12px" font-weight="700" inner-padding="10px 22px" padding="18px 0 0">Unsubscribe Here</mj-button>
+          <mj-text align="center" color="#ffffff" font-size="12px" font-weight="700" line-height="18px" padding="18px 0 0">Unsubscribe Here</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
 
-    <mj-section background-color="#eeeeee" padding="18px 20px"></mj-section>
   </mj-body>
 </mjml>
