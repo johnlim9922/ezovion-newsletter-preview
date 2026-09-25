@@ -92,8 +92,7 @@
 
       <mj-section background-color="#fce8fa" padding="0 28px 12px" css-class="mobile-pad">
         <mj-column>
-          <mj-raw>
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
                 <td class="pair-cell pair-cell-first" width="50%" valign="top" bgcolor="#ffffff" style="padding:20px 18px;">
                   <img src="assets/icons/pill.png" alt="Medicine" width="34" style="display:block;border:0;width:34px;height:auto;margin:0 0 14px;" />
@@ -106,14 +105,12 @@
                   <div style="color:#2d2d2d;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:21px;">Offer upfront inpatient cost clarity and accept RTGS, NEFT, IMPS, and payment cheques seamlessly.</div>
                 </td>
               </tr>
-            </table>
-          </mj-raw>
+          </mj-table>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fce8fa" padding="0 28px 12px" css-class="mobile-pad">
         <mj-column>
-          <mj-raw>
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
                 <td class="pair-cell pair-cell-first" width="50%" valign="top" bgcolor="#ffffff" style="padding:20px 18px;">
                   <img src="assets/icons/clipboard-text.png" alt="Audit" width="34" style="display:block;border:0;width:34px;height:auto;margin:0 0 14px;" />
@@ -126,14 +123,12 @@
                   <div style="color:#2d2d2d;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:21px;">Enable end-to-end chronic care with dedicated mobile apps, patient portals, and integrated device support for superior long-term clinical outcomes.</div>
                 </td>
               </tr>
-            </table>
-          </mj-raw>
+          </mj-table>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fce8fa" padding="0 28px 12px" css-class="mobile-pad">
         <mj-column>
-          <mj-raw>
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
                 <td class="pair-cell pair-cell-first" width="50%" valign="top" bgcolor="#ffffff" style="padding:20px 18px;">
                   <img src="assets/icons/pulse.png" alt="Vital monitoring" width="34" style="display:block;border:0;width:34px;height:auto;margin:0 0 14px;" />
@@ -146,14 +141,12 @@
                   <div style="color:#2d2d2d;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:21px;">Accelerate collections and minimize claim leakage with automated billing validation, faster approvals, and structured denial tracking.</div>
                 </td>
               </tr>
-            </table>
-          </mj-raw>
+          </mj-table>
         </mj-column>
       </mj-section>
       <mj-section background-color="#fce8fa" padding="0 28px 32px" css-class="mobile-pad">
         <mj-column>
-          <mj-raw>
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
                 <td class="pair-cell pair-cell-first" width="50%" valign="top" bgcolor="#ffffff" style="padding:20px 18px;">
                   <img src="assets/icons/users-three.png" alt="Second opinion" width="34" style="display:block;border:0;width:34px;height:auto;margin:0 0 14px;" />
@@ -166,8 +159,7 @@
                   <div style="color:#2d2d2d;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:21px;">Bridge operational billing and core accounting automatically, syncing hospital revenue and expense data without repetitive double-entry.</div>
                 </td>
               </tr>
-            </table>
-          </mj-raw>
+          </mj-table>
         </mj-column>
       </mj-section>
 
@@ -250,8 +242,7 @@
 
       <mj-section padding="28px 24px 12px" css-class="mobile-pad">
         <mj-column>
-          <mj-raw>
-            <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+          <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
               <tr>
                 <td class="pair-cell pair-cell-first" width="50%" valign="top" bgcolor="#fce8fa" style="padding:20px 18px;">
                   <img src="assets/icons/buildings.png" alt="Hospital deployments" width="34" style="display:block;border:0;width:34px;height:auto;margin:0 0 14px;" />
@@ -264,8 +255,7 @@
                   <div style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:21px;">Accelerating presence across Saudi Arabia, the UAE, Indonesia, Trinidad &amp; Tobago, and Europe.</div>
                 </td>
               </tr>
-            </table>
-          </mj-raw>
+          </mj-table>
         </mj-column>
       </mj-section>
       <mj-section padding="0 24px 12px" css-class="mobile-pad">
