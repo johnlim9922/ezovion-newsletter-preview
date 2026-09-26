@@ -305,27 +305,17 @@
         </mj-column>
       </mj-section>
 
-      <mj-section background-color="#ffffff" padding="28px 24px 12px" css-class="mobile-pad">
+      <mj-section background-color="#ffffff" padding="28px 24px" css-class="mobile-pad">
         <mj-column>
-          <mj-text color="#621742" font-size="18px" font-weight="700" line-height="24px" padding-bottom="14px">Technology Partners</mj-text>
+          <mj-text color="#621742" font-size="18px" font-weight="700" line-height="24px" padding-bottom="16px">Technology Partners Security &amp; Compliances</mj-text>
           <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
             <tr>
-              <td align="center" width="50%" style="padding:4px 12px;"><img src="assets/partner-microsoft.jpg" alt="Microsoft Partner" width="150" style="display:block;width:150px;max-width:100%;height:auto;" /></td>
-              <td align="center" width="50%" style="padding:4px 12px;"><img src="assets/partner-better.jpg" alt="Better" width="150" style="display:block;width:150px;max-width:100%;height:auto;" /></td>
-            </tr>
-          </mj-table>
-        </mj-column>
-      </mj-section>
-
-      <mj-section background-color="#ffffff" padding="10px 24px 28px" css-class="mobile-pad">
-        <mj-column>
-          <mj-text color="#621742" font-size="18px" font-weight="700" line-height="24px" padding-bottom="14px">Security &amp; Compliance</mj-text>
-          <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
-            <tr>
-              <td align="center" width="25%" style="padding:14px 5px;background:#fce8fa;border-right:5px solid #ffffff;color:#621742;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:18px;">ISO 27001</td>
-              <td align="center" width="25%" style="padding:14px 5px;background:#fce8fa;border-right:5px solid #ffffff;color:#621742;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:18px;">ISO 9001</td>
-              <td align="center" width="25%" style="padding:14px 5px;background:#fce8fa;border-right:5px solid #ffffff;color:#621742;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:18px;">GDPR</td>
-              <td align="center" width="25%" style="padding:14px 5px;background:#fce8fa;color:#621742;font-family:Arial, Helvetica, sans-serif;font-size:13px;font-weight:700;line-height:18px;">ABHA</td>
+              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/partner-microsoft.jpg" alt="Microsoft Partner" width="80" style="display:block;width:80px;max-width:100%;height:auto;margin:0 auto;" /></td>
+              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/partner-better.jpg" alt="Better" width="76" style="display:block;width:76px;max-width:100%;height:auto;margin:0 auto;" /></td>
+              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/logo-iso-27001.png" alt="ISO 27001 certified" width="58" style="display:block;width:58px;max-width:100%;height:auto;margin:0 auto;" /></td>
+              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/logo-iso-9001.png" alt="ISO 9001 certified" width="58" style="display:block;width:58px;max-width:100%;height:auto;margin:0 auto;" /></td>
+              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/logo-national-health-authority.png" alt="National Health Authority" width="86" style="display:block;width:86px;max-width:100%;height:auto;margin:0 auto;" /></td>
+              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/logo-hl7-fhir.png" alt="HL7 FHIR" width="84" style="display:block;width:84px;max-width:100%;height:auto;margin:0 auto;" /></td>
             </tr>
           </mj-table>
         </mj-column>
