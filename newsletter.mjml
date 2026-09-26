@@ -307,17 +307,8 @@
 
       <mj-section background-color="#ffffff" padding="28px 24px" css-class="mobile-pad">
         <mj-column>
-          <mj-text color="#621742" font-size="18px" font-weight="700" line-height="24px" padding-bottom="16px">Technology Partners Security &amp; Compliances</mj-text>
-          <mj-table cellpadding="0" cellspacing="0" width="100%" role="presentation">
-            <tr>
-              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/partner-microsoft.jpg" alt="Microsoft Partner" width="80" style="display:block;width:80px;max-width:100%;height:auto;margin:0 auto;" /></td>
-              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/partner-better.jpg" alt="Better" width="76" style="display:block;width:76px;max-width:100%;height:auto;margin:0 auto;" /></td>
-              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/logo-iso-27001.png" alt="ISO 27001 certified" width="58" style="display:block;width:58px;max-width:100%;height:auto;margin:0 auto;" /></td>
-              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/logo-iso-9001.png" alt="ISO 9001 certified" width="58" style="display:block;width:58px;max-width:100%;height:auto;margin:0 auto;" /></td>
-              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/logo-national-health-authority.png" alt="National Health Authority" width="86" style="display:block;width:86px;max-width:100%;height:auto;margin:0 auto;" /></td>
-              <td align="center" valign="middle" width="16.66%" height="66" style="padding:0 4px;"><img src="assets/logo-hl7-fhir.png" alt="HL7 FHIR" width="84" style="display:block;width:84px;max-width:100%;height:auto;margin:0 auto;" /></td>
-            </tr>
-          </mj-table>
+          <mj-text color="#621742" font-size="18px" font-weight="700" line-height="24px" padding-bottom="16px">Technology Partners, Security &amp; Compliances</mj-text>
+          <mj-image src="assets/partner-security-compliance-strip.png" alt="Microsoft, Better, ISO 27001, ISO 9001, National Health Authority and HL7 FHIR" width="552px" padding="0" />
         </mj-column>
       </mj-section>
 
@@ -335,7 +326,6 @@
               <td align="center" width="42"><img src="assets/icons/youtube-white.png" alt="YouTube" width="24" style="display:block;width:24px;height:24px;" /></td>
             </tr>
           </mj-table>
-          <mj-text align="center" color="#ffffff" font-size="12px" font-weight="700" line-height="18px" padding="18px 0 0">Unsubscribe Here</mj-text>
         </mj-column>
       </mj-section>
     </mj-wrapper>
